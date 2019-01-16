@@ -1,0 +1,604 @@
+﻿{
+    "data": {
+        "login": false,
+        "result_sp": true,
+        "special": [
+            {
+                "estate_sp_id": "20171231113013184345",
+                "estate_sp_main_img": "Jqw6ZGpLboAHCCr4h56K.jpg",
+                "area_sp_name": "زیتون کارمندی",
+                "estate_sp_title": "فروش آپارتمان واحد جلو در زیتون کارمندی خیابان ظهرابی",
+                "estate_sp_main_img_2": "Jqw6ZGpLboAHCCr4h56K",
+                "estate_sp_number": "5202",
+                "address": "",
+                "fav_sp": false,
+                "gallery_sp": [
+                    {
+                        "gallery_imgLink": "9Hn4NK1RT8CTN16fF3zM.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "xnYG9RVewE4J175cxFOA.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "s5obNSk7YHWE8ySRlUFc.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "XTMkNr1VPjsI8G299FV4.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "tNJYZdKLB2sX1X17N8Kn.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "axlOyCthWH7dcqAxzEcn.jpg"
+                    }
+                ]
+            },
+            {
+                "estate_sp_id": "20180115104333411042",
+                "estate_sp_main_img": "UNvosM17nC6RcIrfDUcu.jpg",
+                "area_sp_name": "کیان آباد",
+                "estate_sp_title": "فروش آپارتمان واحد جلو در کیان آباد خیابان 25 شرقی",
+                "estate_sp_main_img_2": "UNvosM17nC6RcIrfDUcu",
+                "estate_sp_number": "9345",
+                "address": "",
+                "fav_sp": false,
+                "gallery_sp": [
+                    {
+                        "gallery_imgLink": "tJgdMt7xZ1PL4teqAF3O.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "3RDIwoVMs9HlcwejYCng.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "yAan7kGGUPtDjKAKzoFS.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "uCWySzKaFqv9rN6gkz3o.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "BVuz8JXLFBYu0trjYLmS.jpg"
+                    }
+                ]
+            },
+            {
+                "estate_sp_id": "20180117121342656521",
+                "estate_sp_main_img": "wR06x7fthJGMNAA0KZnp.jpg",
+                "area_sp_name": "زیتون کارمندی",
+                "estate_sp_title": "فروش واحد اداری در زیتون کارمندی خیابان حجت",
+                "estate_sp_main_img_2": "wR06x7fthJGMNAA0KZnp",
+                "estate_sp_number": "3794",
+                "address": "",
+                "fav_sp": false,
+                "gallery_sp": [
+                    {
+                        "gallery_imgLink": "YfslgLWm2xUydEG0RrZy.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "J1K5F7nIHl0DiDOPomwP.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "3fmo3XW93eHaT4bgAVsQ.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "cDO8KZNki35jWuZ5yJhC.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "G2GisCSXsWXsj1go95Ot.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "4xWQ9l8hU4kS0LjQdhrl.jpg"
+                    }
+                ]
+            },
+            {
+                "estate_sp_id": "20180117121423710341",
+                "estate_sp_main_img": "0hOux4VBEhxAu28EIUtc.jpg",
+                "area_sp_name": "زیتون کارمندی",
+                "estate_sp_title": "فروش واحد اداری در زیتون کارمندی خیابان حجت",
+                "estate_sp_main_img_2": "0hOux4VBEhxAu28EIUtc",
+                "estate_sp_number": "9883",
+                "address": "",
+                "fav_sp": false,
+                "gallery_sp": [
+                    {
+                        "gallery_imgLink": "upfjpv6Cw9WetE2ng9zE.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "1XA2K1x4ATeW4LHp4rdx.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "1GQcemAgawyrSyMQY0ar.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "E4cVvL82BfVpsvEZDKOF.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "bvjLu3O0ZiIIbsm4TNLo.jpg"
+                    }
+                ]
+            },
+            {
+                "estate_sp_id": "20180117121513266541",
+                "estate_sp_main_img": "AxM6yK5TnPvf6j1d1vmB.jpg",
+                "area_sp_name": "زیتون کارمندی",
+                "estate_sp_title": "فروش واحد پزشکی در زیتون کارمندی خیابان حجت",
+                "estate_sp_main_img_2": "AxM6yK5TnPvf6j1d1vmB",
+                "estate_sp_number": "2003",
+                "address": "",
+                "fav_sp": false,
+                "gallery_sp": [
+                    {
+                        "estate_main_img": "AxM6yK5TnPvf6j1d1vmB.jpg"
+                    }
+                ]
+            },
+            {
+                "estate_sp_id": "20180122192414014928",
+                "estate_sp_main_img": "I6vYUPwqLFQ6vXstaNh7.jpg",
+                "area_sp_name": "زیتون کارمندی",
+                "estate_sp_title": "فروش آپارتمان واحد جلو در زیتون کارمندی خیابان فردوس",
+                "estate_sp_main_img_2": "I6vYUPwqLFQ6vXstaNh7",
+                "estate_sp_number": "4786",
+                "address": "",
+                "fav_sp": false,
+                "gallery_sp": [
+                    {
+                        "gallery_imgLink": "2NpZ719ofNSTTLOvayqk.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "rGJrXwmunAEHCyYYTQzb.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "HKUaSNFESZpLdP6mGV77.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "4mjAOWyXfhKun5MjFJo3.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "GRJZdqkYlXVvSba0ExDh.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "LVgJgOTxnOjbqa5co3EJ.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "5ynbibn7AnNNClaBkTz1.jpg"
+                    }
+                ]
+            },
+            {
+                "estate_sp_id": "20180124182051432591",
+                "estate_sp_main_img": "9DdRMfoq588IEyNu4l8k.jpg",
+                "area_sp_name": "زیتون کارمندی",
+                "estate_sp_title": "فروش آپارتمان واحد جلو در زیتون کارمندی خیابان حجت",
+                "estate_sp_main_img_2": "9DdRMfoq588IEyNu4l8k",
+                "estate_sp_number": "8922",
+                "address": "",
+                "fav_sp": false,
+                "gallery_sp": [
+                    {
+                        "gallery_imgLink": "pkALl6KnYY15MycjPHHy.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "HeBWYMccTqdi68PSOq4g.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "Ce8IbQ868mtpoxnMEuha.jpg"
+                    }
+                ]
+            },
+            {
+                "estate_sp_id": "20180215105856298769",
+                "estate_sp_main_img": "rbzm5t30RUfyOQck2vaS.jpg",
+                "area_sp_name": "شهرک آغاجری",
+                "estate_sp_title": "فروش آپارتمان کلید اول در آغاجری خیابان طبیعت",
+                "estate_sp_main_img_2": "rbzm5t30RUfyOQck2vaS",
+                "estate_sp_number": "1408",
+                "address": "",
+                "fav_sp": false,
+                "gallery_sp": [
+                    {
+                        "estate_main_img": "rbzm5t30RUfyOQck2vaS.jpg"
+                    }
+                ]
+            },
+            {
+                "estate_sp_id": "20180216215501238545",
+                "estate_sp_main_img": "l234Rr2Z9TCfjCAUDp3p.jpg",
+                "area_sp_name": "پادادشهر",
+                "estate_sp_title": "فروش آپارتمان جلو در پادادشهر خیابان 14 غربی",
+                "estate_sp_main_img_2": "l234Rr2Z9TCfjCAUDp3p",
+                "estate_sp_number": "1757",
+                "address": "",
+                "fav_sp": false,
+                "gallery_sp": [
+                    {
+                        "gallery_imgLink": "KAMkB5lZqYOIyEEzX0uW.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "UCzDTdxLNM83l4UrgH6X.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "KA5cGxtR9BlbgRYjRHMr.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "fs0cLXv6h70LNe4OyM3h.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "X2CdznKMVM3TXuFo5mBJ.jpg"
+                    }
+                ]
+            },
+            {
+                "estate_sp_id": "20180303134900692227",
+                "estate_sp_main_img": "yZZKAPxqkVC2fgqqAQch.jpg",
+                "area_sp_name": "کیانپارس",
+                "estate_sp_title": "فروش آپارتمان 155 متری در کیانپارس خیابان 18 شرقی",
+                "estate_sp_main_img_2": "yZZKAPxqkVC2fgqqAQch",
+                "estate_sp_number": "8h7Eye",
+                "address": "",
+                "fav_sp": false,
+                "gallery_sp": [
+                    {
+                        "gallery_imgLink": "pbyrXXdWjxDQWzc9IhW8.jpg"
+                    },
+                    {
+                        "gallery_imgLink": "diANcjtucTxzi3gLRO7t.jpg"
+                    }
+                ]
+            }
+        ],
+        "city": [
+            {
+                "city_name": "اهواز",
+                "city_id": "1"
+            }
+        ],
+        "point": [
+            {
+                "area_name": "امانیه",
+                "area_id": "1",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "کوی پیروزی",
+                "area_id": "10",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "رسالت",
+                "area_id": "12",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "زیباشهر",
+                "area_id": "13",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "زیتون کارگری",
+                "area_id": "14",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "زیتون کارمندی",
+                "area_id": "15",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "زرگان",
+                "area_id": "16",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "سپیدار",
+                "area_id": "17",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "سیصد دستگاه",
+                "area_id": "18",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "شریعتی جنوبی",
+                "area_id": "19",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "کیانپارس",
+                "area_id": "2",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "شهرک آغاجری",
+                "area_id": "20",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "شهرک حفاری",
+                "area_id": "21",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "شهرک دانشگاه",
+                "area_id": "22",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "شهرک نفت",
+                "area_id": "23",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "صد دستگاه",
+                "area_id": "24",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "طالقانی شرقی",
+                "area_id": "25",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "فاز یک پاداد",
+                "area_id": "28",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "فرهنگ شهر",
+                "area_id": "29",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "آریا شهر",
+                "area_id": "3",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "فولاد شهر",
+                "area_id": "30",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "کیان آباد",
+                "area_id": "31",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "کانتکس",
+                "area_id": "32",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "کیانشهر",
+                "area_id": "33",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "کمپلو جنوبی",
+                "area_id": "34",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "کمپلو شمالی",
+                "area_id": "35",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "کوت عبدلله",
+                "area_id": "36",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "کوی رمضان",
+                "area_id": "37",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "کوروش(کوی ملت)",
+                "area_id": "38",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "کوی سلطان منش",
+                "area_id": "39",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "کوی جواهری",
+                "area_id": "4",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "کوی علوی",
+                "area_id": "40",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "کوی فرهنگیان",
+                "area_id": "41",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "کوی مدرس",
+                "area_id": "42",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "کوی مهدیس",
+                "area_id": "43",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "کوی نبوت",
+                "area_id": "44",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "کوی نفت",
+                "area_id": "45",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "گلستان",
+                "area_id": "46",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "لشکرآباد",
+                "area_id": "47",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "معین زاده",
+                "area_id": "48",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "ملی راه",
+                "area_id": "49",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "باهنر",
+                "area_id": "5",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "نیوسایت",
+                "area_id": "50",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "شریعتی",
+                "area_id": "51",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "پیچ استادیوم",
+                "area_id": "53",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "طالقانی غربی",
+                "area_id": "54",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "سی متری جنوبی",
+                "area_id": "55",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "اسلام آباد",
+                "area_id": "56",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "خزامی",
+                "area_id": "57",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "کوی شاهد",
+                "area_id": "58",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "کوی عابدی",
+                "area_id": "59",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "بهارستان",
+                "area_id": "6",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "کوی بیمه",
+                "area_id": "60",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "چهار شیر",
+                "area_id": "61",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "سه راه خرمشهر",
+                "area_id": "62",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "سه راه تپه",
+                "area_id": "63",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "نادری",
+                "area_id": "64",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "نظام مهندسی",
+                "area_id": "65543355",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "چهارراه آبادان",
+                "area_id": "66",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "سی متری شمالی",
+                "area_id": "67",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "بیست و چهار متری (آزادگان)",
+                "area_id": "68",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "بهزاد شهر",
+                "area_id": "69",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "پادادشهر",
+                "area_id": "7",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "حصیر آباد",
+                "area_id": "71",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "وهابی",
+                "area_id": "73",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "عامری",
+                "area_id": "74",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "مهدیس",
+                "area_id": "75",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "یوسفی",
+                "area_id": "76",
+                "area_cityId": "1"
+            },
+            {
+                "area_name": "پردیس",
+                "area_id": "8",
+                "area_cityId": "1"
+            }
+        ]
+    }
+}

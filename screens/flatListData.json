@@ -1,0 +1,89 @@
+[
+  {
+    "key": 1,
+    "title": "خانه ویلایی در زیتون",
+    "price": "۱۹۲۰۰۰ تومان",
+    "homePic": [
+      "https://images.unsplash.com/photo-1451934403379-ffeff84932da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1542&q=80",
+      "https://unsplash.com/photos/561igiTyvSk/download?force=true",
+      "https://unsplash.com/photos/1ddol8rgUH8/download?force=true",
+      "http://justhomeit.com/wp-content/uploads/2018/02/Country-Styled-Home-Design-with-Large-Simple-Landscaping-Ideas-For-Front-Yard-Using-White-Exterior-Wall-Color.jpg",
+      "https://www.designboom.com/wp-content/uploads/2013/05/abctmahallat08.jpg"
+    ],
+    "estateType": "زمین",
+    "numOfRooms": "سه خوابه",
+    "area": "۱۹۲ متر",
+    "cordinate": [48.6523, 31.31827],
+    "elevator": true,
+    "parking": false
+  },
+  {
+    "key": 2,
+    "title": "ساختمان ارمان",
+    "price": "۱۹۲۰۰۰ تومان",
+    "homePic": [
+      "https://images.unsplash.com/photo-1451934403379-ffeff84932da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1542&q=80",
+      "https://unsplash.com/photos/1ddol8rgUH8/download?force=true",
+      "https://unsplash.com/photos/561igiTyvSk/download?force=true",
+      "http://justhomeit.com/wp-content/uploads/2018/02/Country-Styled-Home-Design-with-Large-Simple-Landscaping-Ideas-For-Front-Yard-Using-White-Exterior-Wall-Color.jpg"
+    ],
+    "estateType": "زمین",
+    "numOfRooms": "سه خوابه",
+    "area": "۱۹۲ متر",
+    "cordinate": [48.6423, 31.31327],
+    "elevator": false,
+    "parking": true
+  },
+  {
+    "key": 3,
+    "title": "مجتمع سحرا",
+    "price": "۱۹۲۰۰۰ تومان",
+    "homePic": [
+      "https://images.unsplash.com/photo-1451934403379-ffeff84932da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1542&q=80",
+      "https://www.designboom.com/wp-content/uploads/2013/05/abctmahallat08.jpg",
+      "https://unsplash.com/photos/561igiTyvSk/download?force=true",
+      "http://justhomeit.com/wp-content/uploads/2018/02/Country-Styled-Home-Design-with-Large-Simple-Landscaping-Ideas-For-Front-Yard-Using-White-Exterior-Wall-Color.jpg"
+    ],
+    "estateType": "زمین",
+    "numOfRooms": "سه خوابه",
+    "area": "۱۹۲ متر",
+    "cordinate": [48.67595, 31.31027],
+    "elevator": true,
+    "parking": true
+  },
+  {
+    "key": 4,
+    "title": "زمین در زیتون کارمندی",
+    "area": "۱۹۲ متر",
+    "price": "۱۹۲۰۰۰ تومان",
+    "homePic": [
+      "https://images.unsplash.com/photo-1451934403379-ffeff84932da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1542&q=80",
+      "https://unsplash.com/photos/561igiTyvSk/download?force=true",
+      "http://www.hilltexhomes.com/wp-content/uploads/2013/12/hilltexhomes.jpg",
+      "https://www.designboom.com/wp-content/uploads/2013/05/abctmahallat08.jpg",
+      "http://justhomeit.com/wp-content/uploads/2018/02/Country-Styled-Home-Design-with-Large-Simple-Landscaping-Ideas-For-Front-Yard-Using-White-Exterior-Wall-Color.jpg"
+    ],
+    "estateType": "زمین",
+    "numOfRooms": "سه خوابه",
+    "cordinate": [48.67023, 31.31427],
+    "elevator": false,
+    "parking": false
+  },
+  {
+    "key": 5,
+    "title": "زمین در زیتون کارمندی",
+    "area": "۱۹۲ متر",
+    "price": "۱۹۲۰۰۰ تومان",
+    "homePic": [
+      "https://images.unsplash.com/photo-1451934403379-ffeff84932da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1542&q=80",
+      "https://unsplash.com/photos/561igiTyvSk/download?force=true",
+      "https://www.designboom.com/wp-content/uploads/2013/05/abctmahallat08.jpg",
+      "http://justhomeit.com/wp-content/uploads/2018/02/Country-Styled-Home-Design-with-Large-Simple-Landscaping-Ideas-For-Front-Yard-Using-White-Exterior-Wall-Color.jpg"
+    ],
+    "estateType": "مشارکت",
+    "numOfRooms": "سه خوابه",
+    "cordinate": [48.60759, 31.31327],
+    "elevator": true,
+    "parking": false
+  }
+]
